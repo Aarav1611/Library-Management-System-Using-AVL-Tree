@@ -1,7 +1,3 @@
-Here’s a detailed `README.md` file for your Library Management System using AVL Tree in C:
-
----
-
 # 📚 Library Management System Using AVL Tree  
 
 A Library Management System implemented in **C** using the **AVL Tree** data structure. This project demonstrates the efficient management of a library's books database, including features such as adding, removing, and searching for books.
